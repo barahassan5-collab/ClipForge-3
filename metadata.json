@@ -1,0 +1,6 @@
+{
+  "name": "ClipForge Studio - Video Compressor, MP3 Converter & Trimmer",
+  "description": "Free browser-based video compressor for WhatsApp & Email, fast Video-to-MP3 audio extractor, format converter, and precision video cutter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
